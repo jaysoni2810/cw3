@@ -1,10 +1,10 @@
 {
-    "name": " my pet store",
+    "name":" my pet store",
     "short_name": "petstore",
     "description": "my online pet store",
     "icons":[
         {
-            "src": "images/icon.jpg",
+            "src": "img/icon.jpg",
             "size": "512x512",
             "type": "image/jpg"
         }
