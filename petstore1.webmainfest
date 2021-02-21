@@ -1,7 +1,7 @@
 {
-    "name": " my pet store"
-    "short_name": "petstore"
-    "description": "my online pet store"
+    "name": " my pet store",
+    "short_name": "petstore",
+    "description": "my online pet store",
     "icons":[
         {
             "src": "images/icon.jpg",
